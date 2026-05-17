@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/views/dashboard/index.php" scriptParameters="$Sourcepath$">
+    <CommandLine workingDirectory="$PROJECT_DIR$">
+      <PhpTestInterpreterSettings>
+        <option name="interpreterName" value="PHP" />
+      </PhpTestInterpreterSettings>
+      <envs>
+        <env name="config.php" value="C:\xampp\htdocs\policy-system\config\config.php" />
+      </envs>
+    </CommandLine>
+    <method v="2" />
+  </configuration>
+</component>
